@@ -14,7 +14,7 @@ images:
 <p align="center">
   <img src="/assets/img/blog_1.png" alt="National Univesity of Colombia" width="77%">
   <br>
-  <span>National Univesity of Colombia</span>
+  <span>National Univesity of Colombia - Bogota</span>
 </p>
 
 
