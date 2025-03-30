@@ -12,9 +12,9 @@ images:
 ---
 
 <p align="center">
-  <img src="/assets/img/blog_1.png" alt="Yu Takeuchi" width="77%">
+  <img src="/assets/img/blog_1.png" alt="National Univesity of Colombia" width="77%">
   <br>
-  <span>The Yu Takeuchi Building</span>
+  <span>National Univesity of Colombia</span>
 </p>
 
 
