@@ -48,10 +48,12 @@ Beyond sharing academic knowledge with students, my greatest hope is that they r
 - Víctor Saa
 - Alejandro Sánchez
 - Sara
+- Santiago Forero
 
 ### Tutor
 
 - Eduards Chipatecua
+- Valeria Ramos
 
 ## References
 
