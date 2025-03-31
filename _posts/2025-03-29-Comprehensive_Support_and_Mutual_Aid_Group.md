@@ -20,7 +20,7 @@ images:
 
 University is a place for learning, growth, and opportunities for personal and professional development. However, not all students are able to complete their academic journey. Many drop out not only due to academic difficulties but also because of external factors, such as lack of integration into the community, unawareness of available resources, or even a sense of isolation.
 
-As a student representative, I witnessed many such cases and felt compelled to drive change. That’s how the **Comprehensive Support and Mutual Aid Group** came to life—an initiative I founded to provide academic support, foster autonomy, and strengthen the student community. This has been a personal project, which means that significantly expanding the group is not feasible. Over time, I have collaborated with others, but most eventually moved on from the project. I have also sought support from professors, but due to their workload, they have been unable to actively contribute to the growth of this initiative.
+As a student representative, I witnessed many such cases and felt compelled to drive change. That’s how the **Comprehensive Support and Mutual Aid Group** came to life—an initiative I founded to provide academic support, foster autonomy, and strengthen the student community. This has been a personal project, which means that significantly expanding the group is not feasible.
 
 ## What is my role in the group?
 
