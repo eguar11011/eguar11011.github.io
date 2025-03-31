@@ -14,7 +14,7 @@ images:
 <p align="center">
   <img src="/assets/img/blog_1.png" alt="National Univesity of Colombia" width="77%">
   <br>
-  <span>National Univesity of Colombia - Bogota</span>
+  <span>National University of Colombia - Bogota</span>
 </p>
 
 
@@ -47,7 +47,7 @@ Beyond sharing academic knowledge with students, my greatest hope is that they r
 - Jvan Herrera
 - Víctor Saa
 - Alejandro Sánchez
-- Sara
+- Sara Fajardo
 - Santiago Forero
 
 ### Tutor
