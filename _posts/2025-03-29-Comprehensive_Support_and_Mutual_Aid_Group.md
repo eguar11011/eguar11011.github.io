@@ -55,26 +55,38 @@ Beyond sharing academic knowledge with students, my greatest hope is that they r
 - Eduards Chipatecua
 - Valeria Ramos
 
+
+
 <style>
-.testimonial-box {
-  background-color: #f5f5f5;
-  border-left: 4px solid #aaa;
-  padding: 1em;
-  margin: 1.5em 0;
-  border-radius: 8px;
-  font-size: 1rem;
+details {
+  margin: 1.2em 0;
+  padding: 0.2em 0;
 }
-details summary {
+
+summary {
   cursor: pointer;
-  font-weight: bold;
+  font-weight: 600;
   font-size: 1.05rem;
-  margin-bottom: 0.5em;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+  transition: color 0.2s;
 }
-details[open] summary::after {
-  content: " ▲";
+
+summary::before {
+  content: "▶";
+  transition: transform 0.2s;
 }
-details summary::after {
-  content: " ▼";
+
+details[open] summary::before {
+  content: "▼";
+}
+
+details p {
+  margin-top: 0.6em;
+  line-height: 1.6;
+  font-size: 1rem;
 }
 </style>
 
