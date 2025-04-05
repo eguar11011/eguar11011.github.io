@@ -55,6 +55,81 @@ Beyond sharing academic knowledge with students, my greatest hope is that they r
 - Eduards Chipatecua
 - Valeria Ramos
 
+<style>
+.testimonial-box {
+  background-color: #f5f5f5;
+  border-left: 4px solid #aaa;
+  padding: 1em;
+  margin: 1.5em 0;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+details summary {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1.05rem;
+  margin-bottom: 0.5em;
+}
+details[open] summary::after {
+  content: " ▲";
+}
+details summary::after {
+  content: " ▼";
+}
+</style>
+
+<div class="testimonial-box">
+  <h3>Student Testimonials - (in Spanish) </h3>
+
+  <details>
+    <summary>Jvan Herrera</summary>
+    <p>
+      A mí me ha parecido una iniciativa bastante beneficiosa, que puede llegar a ser de especial ayuda a gente que, a lo mejor, no entiende muchas de las cosas de la universidad en sus diferentes ámbitos y que, por diferentes motivos, prefieren no interactuar en los grupos de WhatsApp masivos de la carrera.
+      <br><br>
+      De la misma forma, me parece que brinda un espacio donde permite conocer personas dispuestas a ayudar y colaborar, generando un ambiente agradable durante la estadía en la universidad.
+    </p>
+  </details>
+
+  <details>
+
+  <summary>Daniel Melo</summary>
+  <p>
+    Durante mi estancia en este grupo, he aprendido mucho, no solo a nivel académico, sino también en lo personal. Permítanme explicarme. Iniciar la universidad puede ser un momento difícil: nuevas experiencias, nuevas personas y nuevos retos. Gracias al acercamiento con alguien que ya había pasado por esto (Eduards), muchas de mis dudas pudieron resolverse.
+  </p>
+  <p>
+    Además, saber que tenía a alguien con quien hablar y a quien contarle cómo me sentía o si estaba saturado fue un gran apoyo. También me ayudó a relacionarme con más personas, a salir de mi zona de confort y, lo más importante, a identificar qué es lo que realmente me gusta.
+  </p>
+  <p>
+    Por otro lado, en un aspecto más técnico, aprendí bastante sobre machine learning: desde cómo funcionan las capas y qué herramientas se utilizan hasta el funcionamiento de los embeddings, los pesos y una visión general del tema. En otras áreas, esta experiencia me impulsó a construir proyectos y a preguntarme sobre todo aquello que despertara mi curiosidad. Gracias a eso, logré aprender por mi cuenta sobre redes.
+  </p>
+  <p>
+    A medida que el grupo creció, pude convertirme en el apoyo que alguna vez encontré en Eduards, contribuyendo así a que la experiencia universitaria de otras personas fuera más amena. Gracias a los anuncios del grupo, tuve la oportunidad de asistir al Google Quantum Day, lo que representó mi primer acercamiento a proyectarme en una empresa que antes veía lejana. Esto me motivó a seguir estudiando y a prepararme para, algún día, ser competitivo y trabajar en una empresa de este nivel.
+  </p>
+  <p>
+    Las salidas de campo que logramos coordinar también fueron significativas. De hecho, gracias a una de ellas, tuve mi primera experiencia subiendo Monserrate a pie, algo que nunca antes había intentado.
+  </p>
+  <p>
+    Finalmente, creo que este grupo ha influido bastante en la persona que soy hoy. El apoyo y la iniciativa de Eduards me han servido para aprender a llevar la vida universitaria de la mejor manera. Solo me quedan agradecimientos, nuevos proyectos y, lo más importante, un amigo.
+  </p>
+
+
+  </details>
+
+  <details>
+    <summary>Jonathan Sánchez</summary>
+    <p>
+      Me ha parecido un programa bastante interesante, del cual me he beneficiado un montón gracias a los recursos y herramientas que se brindan.
+      <br><br>
+      Es hermoso ver cómo una persona, sin ningún ánimo de lucro, se toma el tiempo y la dedicación no solo para enseñarte, sino también para escucharte y aconsejarte.
+      <br><br>
+      Antes de entrar al programa sabía lo que quería, pero no cómo hacerlo. Una vez lo inicié, todo se fue haciendo más claro. Viví la experiencia de lo que me gustaría ser en un futuro.
+      <br><br>
+      ¡Gracias por tanto!
+    </p>
+  </details>
+</div>
+
+
 ## References
 
 - Alvarado, C., Gray, A., Mirza, D., & Tjoa, M. (2021). "The Role of Mentoring in a Dual-Mentored Scalable CS Research Program." *Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE '21)*, pp. 945–951. DOI: [10.1145/3408877.3432364](https://dl.acm.org/doi/pdf/10.1145/3408877.3432364)
