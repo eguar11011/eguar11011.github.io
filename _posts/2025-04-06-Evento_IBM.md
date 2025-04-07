@@ -1,79 +1,70 @@
 ---
 layout: post
-title: "When Talent Returns: Generative AI and Inspiring Alumni"
-date: 2025-03-30 11:46:00
-description: "A collaborative workshop that fostered learning, inspiration, and the bond between university and industry."
+title: "Siempre intento construir - Comunidad"
+date: 2025-04-05 11:46:00
+description: "Un taller colaborativo que fomentó el aprendizaje, la inspiración y el vínculo entre la universidad y la industria."
 tags: [AI, community, education, IBM, National University]
 categories: events
-thumbnail: IBM-2.png
+thumbnail: IBM-3.png
 images:
   compare: true
   slider: true
 ---
 
 <p align="center">
-  <img src="/assets/img/IBM-2.png" alt="IBM and National University of Colombia" width="67%">
+  <img src="/assets/img/IBM-3.jpg" alt="IBM and National University of Colombia" width="67%">
   <br>
-  <span><em>IBM and National University of Colombia – Bogotá</em></span>
+  <span><em>IBM y Universidad Nacional de Colombia - Bogotá</em></span>
 </p>
 
----
-
-### **Empowering University Talent: A Generative AI Workshop with IBM**
-
-On **April 10 and 11, 2025**, I had the joy of organizing a special workshop and class on **Generative Artificial Intelligence** at the National University. The guest speaker was **my friend Jorge Luis**, accompanied by his team: **Mariana Pulido and Santiago Cassiano**, who are currently working at **IBM**.
-
-These events were more than just a class—they were an opportunity to **learn, get inspired, and connect with cutting-edge technology** right from our campus.
 
 
 
-### 🌱 **Believing in Local Talent**
+El **10 y 11 de abril de 2025**, voy a tener la emoción de organizar un taller y clase especial sobre **Inteligencia Artificial Generativa** en la Universidad Nacional. El invitado es **mi amigo Jorge Luis**, acompañado por su equipo: **Mariana Pulido y Santiago Cassiano**, quienes actualmente trabajan en **IBM**.
 
-One of the reasons I’m so passionate about organizing these kinds of activities is that I **truly believe in the talent we have at the university**.
+Una de las razones por las que me apasiona organizar este tipo de actividades es porque **realmente creo en el talento que tenemos en la universidad**.
 
-Every semester, I meet students with brilliant ideas, genuine curiosity, and a strong desire to learn. I’m convinced that **we can build cutting-edge projects right here**.
+Cada semestre conozco estudiantes con ideas brillantes, curiosidad genuina y muchas ganas de aprender. Estoy convencido de que **podemos construir proyectos de vanguardia desde aquí mismo**.
 
-> "What we often lack isn’t talent, but spaces, support, and networks for collaboration."
+> "Lo que muchas veces nos falta no es talento, sino espacios, apoyo y redes para colaborar."
+> 
 
-Through my role, I want to contribute to that by **creating more opportunities to share knowledge, explore interests, and build challenging projects together**.
+Desde mi rol como estudiante, siempre intento aportar a cambiar eso, **creando más oportunidades para compartir conocimiento, explorar intereses y construir proyectos ambiciosos en conjunto**.
 
+### **Traer Talento para Inspirar Más Talento**
 
+Invitar a Jorge Luis fue un pequeño paso en esa dirección. Él mismo **es producto de este ecosistema universitario**, y ver hasta dónde ha llegado profesionalmente —y en qué está trabajando ahora— es realmente inspirador.
 
-### **Bringing Talent to Inspire More Talent**
+Creo que **cuando traemos de vuelta a quienes fueron formados aquí, sembramos nuevas semillas** en quienes hoy ocupan los salones de clase.
 
-Inviting Jorge Luis was a small step in that direction. He himself **is a product of this university ecosystem**, and seeing how much he’s grown professionally and what he’s working on now is truly inspiring.
-
-I believe that **when we bring back those who were once shaped by the university, we plant new seeds** in those currently filling the classrooms.
-
-This event wasn’t just about generative AI or IBM—it was about **showing what’s possible** and opening new paths for future generations.
-
-
-
-### **Organizing These Events: Something That Just Flows**
-
-Interestingly, organizing this kind of initiative comes naturally to me. I find it easy to envision ideas, build teams, and bring projects to life.
-
-Maybe it’s because I’m passionate about it.  
-Maybe it’s because I love seeing people grow and learn.  
-Maybe it’s because I also learn a lot in the process.
-
-Whatever the reason, this workshop was another chance to reaffirm that commitment: **creating spaces where talent can flourish**.
+Este evento no se trató solo de IA generativa o de IBM—se trata de **mostrar lo que es posible** y abrir nuevos caminos para las próximas generaciones.
 
 ---
 
-### 🎓 **Computer Science Alumni: Let’s Build Community Together!**
+Hablando un poco sobre la organización del evento. Esto lo estoy haciendo solo, claro junto a los invitados, pero la logistica de la universidad toda la gestione yo, y es curioso, este tipo de iniciativas me sale de forma natural. Me resulta fácil imaginar ideas, formar equipos y hacer que los proyectos cobren vida.
 
-I’m organizing spaces where students and alumni can share experiences, knowledge, and keep strengthening the sense of community within our field.
+Tal vez sea porque me apasiona.
 
-If you’re a Computer Science graduate and would like to:
+Tal vez porque me encanta ver cómo las personas crecen y aprenden.
 
-- 🧠 Give a talk  
-- 🛠️ Lead a workshop  
-- 🤝 Share your journey
+Tal vez porque yo también aprendo muchísimo en el proceso.
 
-…I’d love to hear from you.
+Sea cual sea la razón, este taller es otra oportunidad para reafirmar ese compromiso: **crear espacios donde el talento pueda florecer**.
 
-I truly believe that **connecting generations can open many doors**.  
-💬 If you’re interested in participating or learning more, **feel free to reach out directly: emendezc@unal.edu.co**
+### 🎓 **Egresados de Computación**
 
-**It would be a pleasure to organize something with you!**
+Estoy organizando espacios donde estudiantes y egresados podamos compartir experiencias, conocimiento y seguir fortaleciendo nuestro sentido de comunidad.
+
+Si eres egresado/a de Computación y te gustaría:
+
+- 🧠 Dar una charla
+- 🛠️ Liderar un taller
+- 🤝 Compartir tu camino profesional
+
+…me encantaría saber de ti.
+
+Creo sinceramente que **conectar generaciones puede abrir muchas puertas**.
+
+💬 Si te interesa participar o saber más, **escríbeme directamente: [emendezc@unal.edu.co](mailto:emendezc@unal.edu.co)**
+
+**¡Será un gusto organizar algo contigo!**
