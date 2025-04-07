@@ -1,4 +1,3 @@
----
 layout: post
 title: "Siempre intento construir - Comunidad"
 date: 2025-04-05 11:46:00
@@ -17,9 +16,6 @@ images:
   <span><em>IBM y Universidad Nacional de Colombia - Bogotá</em></span>
 </p>
 
-
-
-
 El **10 y 11 de abril de 2025**, voy a tener la emoción de organizar un taller y clase especial sobre **Inteligencia Artificial Generativa** en la Universidad Nacional. El invitado es **mi amigo Jorge Luis**, acompañado por su equipo: **Mariana Pulido y Santiago Cassiano**, quienes actualmente trabajan en **IBM**.
 
 Una de las razones por las que me apasiona organizar este tipo de actividades es porque **realmente creo en el talento que tenemos en la universidad**.
@@ -27,27 +23,26 @@ Una de las razones por las que me apasiona organizar este tipo de actividades es
 Cada semestre conozco estudiantes con ideas brillantes, curiosidad genuina y muchas ganas de aprender. Estoy convencido de que **podemos construir proyectos de vanguardia desde aquí mismo**.
 
 > "Lo que muchas veces nos falta no es talento, sino espacios, apoyo y redes para colaborar."
-> 
 
 Desde mi rol como estudiante, siempre intento aportar a cambiar eso, **creando más oportunidades para compartir conocimiento, explorar intereses y construir proyectos ambiciosos en conjunto**.
 
-### **Traer Talento para Inspirar Más Talento**
+### **Traer talento para inspirar más talento**
 
-Invitar a Jorge Luis fue un pequeño paso en esa dirección. Él mismo **es producto de este ecosistema universitario**, y ver hasta dónde ha llegado profesionalmente —y en qué está trabajando ahora— es realmente inspirador.
+Invitar a Jorge Luis es un pequeño paso en esa dirección. Él mismo **es producto de este ecosistema universitario**, y ver hasta dónde ha llegado profesionalmente —y en qué está trabajando ahora— es realmente inspirador.
 
 Creo que **cuando traemos de vuelta a quienes fueron formados aquí, sembramos nuevas semillas** en quienes hoy ocupan los salones de clase.
 
-Este evento no se trató solo de IA generativa o de IBM—se trata de **mostrar lo que es posible** y abrir nuevos caminos para las próximas generaciones.
+Este evento no se trató solo de IA generativa o de IBM: se trata de **mostrar lo que es posible** y abrir nuevos caminos para las próximas generaciones.
 
 ---
 
-Hablando un poco sobre la organización del evento. Esto lo estoy haciendo solo, claro junto a los invitados, pero la logistica de la universidad toda la gestione yo, y es curioso, este tipo de iniciativas me sale de forma natural. Me resulta fácil imaginar ideas, formar equipos y hacer que los proyectos cobren vida.
+Sobre la organización del evento, puedo decir que ha sido una experiencia muy especial. Aunque lo he estado gestionando principalmente yo, he contado con la disposición y el apoyo de quienes aceptaron venir a compartir su experiencia.
 
-Tal vez sea porque me apasiona.
+No es fácil coordinar este tipo de cosas, pero me gusta hacerlo. Me nace. Imaginar ideas, buscar la manera de que se hagan realidad, conectar personas… todo eso me motiva mucho.
 
-Tal vez porque me encanta ver cómo las personas crecen y aprenden.
-
-Tal vez porque yo también aprendo muchísimo en el proceso.
+Tal vez porque me emociona ver cómo el conocimiento se comparte.  
+Tal vez porque disfruto ver a otros crecer, inspirarse, animarse.  
+Tal vez porque yo también aprendo muchísimo en el camino.
 
 Sea cual sea la razón, este taller es otra oportunidad para reafirmar ese compromiso: **crear espacios donde el talento pueda florecer**.
 
@@ -57,9 +52,9 @@ Estoy organizando espacios donde estudiantes y egresados podamos compartir exper
 
 Si eres egresado/a de Computación y te gustaría:
 
-- 🧠 Dar una charla
-- 🛠️ Liderar un taller
-- 🤝 Compartir tu camino profesional
+- 🧠 Dar una charla  
+- 🛠️ Liderar un taller  
+- 🤝 Compartir tu camino profesional  
 
 …me encantaría saber de ti.
 
