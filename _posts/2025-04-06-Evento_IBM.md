@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Siempre intento construir - Comunidad"
 date: 2025-04-05 11:46:00
