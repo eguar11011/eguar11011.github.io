@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Siempre intento construir - Comunidad"
+title: "Evento IBM"
 date: 2025-04-05 11:46:00
 description: "Un taller colaborativo que fomentó el aprendizaje, la inspiración y el vínculo entre la universidad y la industria."
 tags: [AI, community, education, IBM, National University]
