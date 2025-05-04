@@ -2,7 +2,7 @@
 layout: post
 title: "Sembrar comunidad: lecciones al organizar eventos universitarios"
 date: 2025-05-03 11:46:00
-description: "Un proyecto personal que busca fortalecer los lazos entre estudiantes y construir comunidad desde la universidad."
+description: "Pensemos en la pregunta ¿Por qué deberíamos organizar eventos?"
 tags: [support, community, education, mentorship]
 categories: sample-posts
 thumbnail: me.jpg
