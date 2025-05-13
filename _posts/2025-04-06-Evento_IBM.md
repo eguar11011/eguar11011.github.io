@@ -17,7 +17,6 @@ images:
   <span><em>IBM y Universidad Nacional de Colombia - Bogotá</em></span>
 </p>
 
-### Taller de IA Generativa con IBM
 
 El **10 y 11 de abril de 2025**, tuve la alegría de organizar un taller y clase especial sobre **Inteligencia Artificial Generativa** en la Universidad Nacional. El invitado fue **mi amigo Jorge Luis**, acompañado por su equipo: **Mariana Pulido y Santiago Cassiano**, quienes actualmente trabajan en **IBM**.
 

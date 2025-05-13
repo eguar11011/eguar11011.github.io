@@ -1046,3 +1046,12 @@ nav[data-toggle="toc"] {
   
 }
 
+/* ─── Centrar entradas individuales ─────────────────────────── */
+.post,          /* layout por defecto de al‑folio */
+.post-content { /* por si al‑folio cambia la clase */
+  max-width: 760px;     /* ancho legible; ajusta a gusto */
+  margin: 0 auto;       /* centra horizontalmente */
+  padding: 0 1rem;      /* aire lateral en pantallas pequeñas */
+}
+
+
