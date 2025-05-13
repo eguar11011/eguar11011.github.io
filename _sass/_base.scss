@@ -1005,31 +1005,25 @@ nav[data-toggle="toc"] {
 
 // --- Estilos personalizados para vista de blog tipo tarjeta (como Lil'Log) ---
 
+
 .blog-card {
-  border-radius: 10px;          /* un poco menos redondo */
-  background-color: #ffffff;    /* blanco puro, no grisáceo */
-  padding: 1.25rem 1.5rem;
-  margin-bottom: 1.75rem;
-  box-shadow: 0 3px 10px rgba(0,0,0,.04);
+  padding-bottom: 0.2rem;     /* espacio antes de la línea   */
+  margin-bottom: 0.8rem;      /* espacio después de la línea */
+  border-bottom: 1px solid rgba(0,0,0,.12);   /* línea clara  */
 }
-
-.blog-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 18px rgba(0,0,0,.06);
-}
-
 
 .blog-title {
   font-size: 1.4rem;
   font-weight: 700;
-  color: #222;
   margin-bottom: 0.5rem;
+  
 }
 
 .blog-meta {
   font-size: 0.9rem;
   color: #666;
   margin-bottom: 0.8rem;
+  
 }
 
 .blog-excerpt {
@@ -1040,14 +1034,15 @@ nav[data-toggle="toc"] {
 .intro-text {
   margin-bottom: 2rem;
   padding: 1.2rem;
-  background-color: #fffbe6;
-  border-left: 5px solid #ffd633;
   font-size: 1.1rem;
+    border-bottom: 1px solid rgba(0,0,0,.12);   /* línea clara  */
+
 }
 /* coloca esto DESPUÉS de las reglas que ya añadiste */
 .blog-list {
   max-width: 760px;     /* ajusta si quieres más ancho */
   margin: 0 auto;       /* centra */
   padding: 0 1rem;      /* algo de aire en móviles */
+  
 }
 
