@@ -80,4 +80,4 @@ Vivimos en una sociedad que, cada vez más, tiende a estar desconectada y a volv
 
 <br>
 <br>
-<p class="post-thanks"><strong>Thanks</strong> to <a href="https://cesarpedraza.com">Cesar Pedraza</a> for reading a draft of this post and for advising me.</p>
+<p class="post-thanks"><strong>Gracias</strong> a <a href="https://cesarpedraza.com">Cesar Pedraza</a> por leer un borrador de esta publicación y por sus consejos.</p>
