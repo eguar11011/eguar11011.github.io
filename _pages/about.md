@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science - Universidad Nacional de Colombia
+subtitle: Computer Science - National University of Colombia
 
 profile:
   align: right
