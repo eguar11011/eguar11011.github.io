@@ -13,33 +13,34 @@ pagination:
     after: 3
 ---
 
-<div class="post">
 
-  <ul class="post-list">
-    {% for post in paginator.posts %}
+{% assign latest_posts = site.posts %}
+{% if site.latest_posts.limit %}
+  {% assign latest_posts = site.posts | slice: 0, site.latest_posts.limit %}
+{% endif %}
 
-    <li>
-      <h3>
-        {% if post.redirect == blank %}
-          <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        {% elsif post.redirect contains '://' %}
-          <a class="post-title" href="{{ post.redirect }}" target="_blank">{{ post.title }}</a>
-        {% else %}
-          <a class="post-title" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
-        {% endif %}
-      </h3>
-      <p>{{ post.description }}</p>
-      <p class="post-meta">
-        {{ post.date | date: '%B %-d, %Y' }}
-        {%- if post.external_source %}
-        &nbsp; &middot; &nbsp; {{ post.external_source }}
-        {%- endif %}
-      </p>
-    </li>
-
-    {% endfor %}
-  </ul>
-
-  {% include pagination.html %}
-
+<div class="blog-list">
+  <div class="intro-text">
+  <h1>👋 Bienvenido al Blog</h1>
+  <p>Hola, soy Eduards. Aquí documento mis proyectos, eventos y aprendizajes.</p>
 </div>
+  {% for post in latest_posts %}
+  <div class="blog-card">
+    <a href="{{ post.url | relative_url }}">
+      <h2 class="blog-title">{{ post.title }}</h2>
+    </a>
+
+    <!-- aquí va la descripción  -->
+    <p class="blog-desc">
+      {{ post.description | default: post.excerpt | strip_html | truncatewords: 35 }}
+    </p>
+
+    <div class="blog-meta">
+      {{ post.date | date: "%B %d, %Y" }}
+      {% if post.read_time %} · {{ post.read_time }}{% endif %}
+    </div>
+  </div>
+
+  {% endfor %}
+</div>
+
