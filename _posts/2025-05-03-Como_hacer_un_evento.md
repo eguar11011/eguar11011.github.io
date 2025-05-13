@@ -75,3 +75,9 @@ Vivimos en una sociedad que, cada vez más, tiende a estar desconectada y a volv
 
 1. Semana de las Matemáticas: [Notion](https://freckle-afternoon-1f1.notion.site/En-el-fem-cc-d02773289a8143efa76beea890f5ba17?pvs=74)  
 2. Evento con IBM: [Blog](https://eguar11011.github.io/blog/2025/Evento_IBM/)
+
+
+
+<br>
+<br>
+<p class="post-thanks"><strong>Thanks</strong> to <a href="https://cesarpedraza.com">Cesar Pedraza</a> for reading a draft of this post and for advising me.</p>
