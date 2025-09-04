@@ -128,13 +128,11 @@ blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
 # Pagination
-pagination:
-  enabled: true
 
 related_blog_posts:
   enabled: true
   max_related: 5
-
+future: true
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
@@ -162,8 +160,10 @@ disqus_shortname: al-folio # put your disqus shortname
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-
 collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
   news:
     defaults:
       layout: post
@@ -181,7 +181,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
