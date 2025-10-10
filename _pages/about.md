@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science - National University of Colombia
+subtitle: Computer Scientist - National University of Colombia
 
 profile:
   align: right
-  image: me.jpg
+  image: img_5.png
   image_circular: false # crops the image to make it circular
   
 
@@ -16,16 +16,15 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I have always been passionate about improving my community and making a positive impact on my surroundings. My fascination with solving mysteries naturally led me to study mathematics and computer science—two disciplines I believe are vital for tackling complex challenges.
+I am not merely interested in research; I am interested in **important research**. My work begins with a simple premise: *What problems are worth solving?*
 
-Two years ago, I embarked on a self-guided journey into machine learning, which eventually led me to join [MindLab](https://ingenieria.unal.edu.co/mindlab/). This experience not only deepened my expertise in the field but also honed my leadership and social skills, as I took on roles that ensured the smooth functioning of essential projects.
+I was mentored by <a href="https://scholar.google.com/citations?user=IUB__IwAAAAJ&hl=es" style="color:#007acc; font-weight:bold;">Professor Fabio González</a>, who taught me that good research requires both technical depth and a clear sense of purpose. This led me to a critical observation at **MindLab**: a powerful computing lab was sitting idle, locking away potential. I did not just note the problem; **I solved it**. I took charge of its reopening, managing its GPU cluster and provisioning access for the entire research group. This was not an administrative task—it was a **multiplier of research capacity**.
 
-Currently, I am delving into the cutting-edge field of continual learning while also mentoring first-year students. As I near the completion of my undergraduate degree, I am excited about the future opportunities to continue solving intricate problems and making meaningful contributions to my community.
+Now, I collaborate with <a href="https://scholar.google.com/citations?user=lbfc2joAAAAJ&hl=es" style="color:#007acc; font-weight:bold;">Professor Juan Galvis</a> and <a href="https://sites.google.com/site/fagomezj/publications?authuser=0" style="color:#007acc; font-weight:bold;">Professor Francisco Gómez</a>. We are not just writing papers; **we are building the foundation for the next generation of scientific computing** by creating a new high-performance lab at **DataLab**. Concurrently, I mentor **first-year students** because building a strong community is not an aside—it is a **prerequisite for doing great work**.
 
-### What drives me:
-
-- Community engagement.
-- Artistic expression.
-- Creating and solving puzzles.
+My motivation is fundamental: **I solve hard problems**. This is as true for my research as it is for the puzzles I tackle on <a href="https://projecteuler.net/about" style="color:#007acc; font-weight:bold;">Project Euler</a>. The question that drives me is the one Hamming posed:  
+<blockquote style="border-left: none; text-align: center; font-style: italic; font-size: 1.2em; color: #444; margin: 1.5em 0;">
+  “What are the important problems in your field, and why aren’t you working on them?”
+</blockquote>
 
 
